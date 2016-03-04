@@ -1,0 +1,2 @@
+De to filer smides ind i C:\Program Files (x86)\TeXstudio\dictionaries 
+Derefter kan man vælge dansk lige som i Word.
