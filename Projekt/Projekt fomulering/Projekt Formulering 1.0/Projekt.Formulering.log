@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.5)  2 MAR 2016 20:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.5)  4 MAR 2016 13:33
 entering extended mode
-**"./Projekt Formulering.tex"
-("Projekt Formulering.tex"
+**./Projekt.Formulering.tex
+(Projekt.Formulering.tex
 LaTeX2e <2015/10/01> patch level 2
 Babel <3.9n> and hyphenation patterns for 69 languages loaded.
 (preamble_ida16.tex
@@ -1661,9 +1661,9 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 85.
 (C:\Users\Jeppe\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 ))
-("Projekt Formulering.aux" (Filer/Forside.aux) (Filer/Indledning.aux)
+(Projekt.Formulering.aux (Filer/Forside.aux) (Filer/Indledning.aux)
 (Filer/Formulering.aux))
-\openout1 = `"Projekt Formulering.aux"'.
+\openout1 = `Projekt.Formulering.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -1742,9 +1742,9 @@ LaTeX Info: Redefining \nameref on input line 3.
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
-("Projekt Formulering.out") ("Projekt Formulering.out")
+(Projekt.Formulering.out) (Projekt.Formulering.out)
 \@outlinefile=\write4
-\openout4 = `"Projekt Formulering.out"'.
+\openout4 = `Projekt.Formulering.out'.
 
 LaTeX Info: Redefining \Ref on input line 3.
 \c__siunitx_mathsf_int=\count360
@@ -1825,33 +1825,33 @@ Package babel Info: Redefining danish shorthand "~
 
 
 
-] ("Projekt Formulering.bbl")
+]
+No file Projekt.Formulering.bbl.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 15.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 15.
-
-("Projekt Formulering.aux" (Filer/Forside.aux) (Filer/Indledning.aux)
+(Projekt.Formulering.aux (Filer/Forside.aux) (Filer/Indledning.aux)
 (Filer/Formulering.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 15.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 15.
-Package rerunfilecheck Info: File `"Projekt Formulering".out' has not changed.
+Package rerunfilecheck Info: File `Projekt.Formulering.out' has not changed.
 (rerunfilecheck)             Checksum: D802287291AEFBF869A27E17E2634961;101.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 15.
  ) 
 Here is how much of TeX's memory you used:
- 26603 strings out of 493634
- 473778 string characters out of 3143745
- 713545 words of memory out of 3000000
- 29635 multiletter control sequences out of 15000+200000
+ 26599 strings out of 493634
+ 473662 string characters out of 3143745
+ 713543 words of memory out of 3000000
+ 29633 multiletter control sequences out of 15000+200000
  17364 words of font info for 51 fonts, out of 3000000 for 9000
  1027 hyphenation exceptions out of 8191
- 44i,12n,78p,10491b,744s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,12n,78p,10489b,744s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc} <C:\Users\Jeppe
 \AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1440.pk> <C:\U
 sers\Jeppe\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095
 .pk> <C:\Users\Jeppe\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
 0\ecsl2488.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/bookman/ubkd8a.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on "Projekt Formulering.pdf" (3 pages, 49873 bytes).
+Output written on Projekt.Formulering.pdf (3 pages, 49873 bytes).
 PDF statistics:
  136 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
