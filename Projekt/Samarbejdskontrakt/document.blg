@@ -1,0 +1,16 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: document.aux
+I couldn't open style file bibtex/harvard.bst
+---line 5 of file document.aux
+ : \bibstyle{bibtex/harvard
+ :                         }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: Filer/Samarbejdskontrakt.aux
+I couldn't open database file bibtex/litteratur.bib
+---line 27 of file document.aux
+ : \bibdata{bibtex/litteratur
+ :                           }
+I'm skipping whatever remains of this command
+I found no \citation commands---while reading file document.aux
+I found no database files---while reading file document.aux
+I found no style file---while reading file document.aux
+(There were 5 error messages)
